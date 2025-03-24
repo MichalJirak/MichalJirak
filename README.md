@@ -1,6 +1,6 @@
 # 🚀 Michal Jirak | Frontend Enthusiast
 💡 Passionate about **React, Tailwind CSS, and Web Development**  
-📍 Based in the **Czech Republic** | 🏃 Runner | 🎥 Reels Maker  
+📍 Based in the **Czech Republic** | 🏃🚴 Sportsman
 
 <br>
 
