@@ -1,15 +1,15 @@
-# 🚀 Michal Jirak | Frontend enthusiast
+# 🚀 Michal Jirak | Frontend Enthusiast
 💡 Passionate about **React, Tailwind CSS, and Web Development**  
 📍 Based in the **Czech Republic** | 🏃 Runner | 🎥 Reels Maker  
 
----
+<br>
 
 ## 👀 Visitors
 <div>
   <img src="https://profile-counter.glitch.me/MichalJirak/count.svg" alt="Visitor's Count" />
 </div>
 
----
+<br>
 
 ## 🛠️ Tech Stack
 <div>
@@ -21,14 +21,14 @@
 📝 **CMS**: WordPress, TinaCMS  
 📊 **Analytics**: Google Tag Manager, GA4  
 
----
+<br>
 
 ## 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MichalJirak&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichalJirak&show_icons=true&theme=default" />
 </div>
 
----
+<br>
 
 ## 🌍 Connect with Me
 <div>
@@ -43,15 +43,15 @@
   </a>
 </div>
 
----
+<br>
 
-### 🎯 Goals for 2025
+## 🎯 Goals for 2025
 ✅ **Build a Recipe Website using React & Supabase**  
 ✅ **Improve WordPress & Headless CMS Knowledge**  
 ✅ **Enhance React Performance & State Management**  
 🏃‍♂️ **Expand RUNhošť Running Club & Events**  
 
----
+<br>
 
-### 🔥 Fun Fact
+## 🔥 Fun Fact
 I love combining **running, yoga, and web development** into a healthy and creative lifestyle!  
